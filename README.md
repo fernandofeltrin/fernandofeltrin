@@ -1,6 +1,7 @@
 <h1 align="center">Olá Mundo!!! 👋 Prof. Eng. Fernando Feltrin aqui...</h1>
 <h3 align="left">Contato:</h3>
 <p align="left">
+<a href="https://orcid.org/0000-0002-0198-8888" target="blank"><img align="center" src="https://figshare.com/ndownloader/files/8439032" alt="fernandofeltrin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fernandofeltrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandofeltrin" height="30" width="40" /></a>
 <a href="https://kaggle.com/fernando2rad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fernando2rad" height="30" width="40" /></a>
 <a href="https://fb.com/fernandofeltrinpython" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernandofeltrinpython" height="30" width="40" /></a>
