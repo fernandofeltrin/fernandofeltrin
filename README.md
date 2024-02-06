@@ -17,5 +17,7 @@
 
 <h3 align="center">--//--</h3>
 <p align="left">
-  
+![](neuro_cnn.jpg)
+<h3 align="center">--//--</h3>
+<p align="left">
 ![](LivrosJan2024.jpg)
