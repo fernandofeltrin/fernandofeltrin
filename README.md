@@ -22,7 +22,7 @@
 ![](LivrosJan2024.jpg)
 
 <h3 align="center">--//--</h3>
-<h3 align="center">NeuroCNN 3.0</h3>
+<h3 align="center">NeuroCNN 3.0 - Detecção, Segmentação e Classificação de Massas Tumorais Cerebrais a Partir de Exames de Ressonância Magnética</h3>
 <p align="center">
  
 ![](neuro_cnn.jpg)
