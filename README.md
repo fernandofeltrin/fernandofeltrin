@@ -1,5 +1,5 @@
 <h1 align="center">Olá Mundo!!! 👋 Prof. Eng. Fernando Feltrin aqui...</h1>
-<h3 align="center">Engenheiro da Computação com especializações na área de ciência de dados e inteligência artificial, Professor licenciado para docência de nível técnico e superior, Autor de mais de 30 livros sobre programação de computadores e responsável pelo desenvolvimento e implementação de ferramentas voltadas a visão computacional e modelos de redes neurais artificiais aplicadas à Radiologia (Diagnóstico por Imagem) / Medicina.</h3>
+<h3 align="center">Engenheiro da Computação com especializações na área de neurociências e inteligência artificial, Professor licenciado para docência de nível técnico e superior, Autor de mais de 50 livros sobre programação de computadores e neurociências e responsável pelo desenvolvimento e implementação de ferramentas voltadas a visão computacional e modelos de redes neurais artificiais aplicadas à Radiologia (Diagnóstico por Imagem) / Neurologia.</h3>
 <h3 align="left">Contato:</h3>
 <h4 align="left">fernando2rad@gmail.com // (55) 99135-7259</h4>
 <p align="left">
