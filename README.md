@@ -11,10 +11,6 @@
 
 <h3 align="left">Meus Livros:</h3>
 <p align="left"> <a href="https://www.amazon.com.br/s?i=digital-text&rh=p_27%3AFernando+Feltrin&s=relevancerank&text=Fernando+Feltrin&ref=dp_byline_sr_ebooks_1" target="_blank"> <img src="https://camo.githubusercontent.com/64bcab667afb4101e86fcf3ce8d99f6f3bf690ce29c5e70a87a23fdcfdfe904a/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f343938343639302f313031373439372f30633665386237652d306331322d313165332d386463622d3462326637353236623762302e706e67" alt="Amazon.com.br" width="40" height="40"/> </a> </p>
-
-<h3 align="center">--//--</h3>
-<h3 align="center">Meus Livros</h3>
-<p align="left">
  
 ![](LivrosJan2024.jpg)
 
